@@ -1,3 +1,3 @@
 ## HELLO!
 
-# this is a readme for fucking MSDM 5001
+this is a readme for MSDM 5001
